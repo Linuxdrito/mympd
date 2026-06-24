@@ -1,0 +1,1 @@
+/bin/c++  -O3 -march=native -flto -pipe -Wl,--dependency-file=CMakeFiles/mympc.dir/link.d CMakeFiles/mympc.dir/src/cli.cpp.o -o mympc

@@ -1,0 +1,4 @@
+/home/pedrito/proyectos/mympd/build/CMakeFiles/mympd.dir
+/home/pedrito/proyectos/mympd/build/CMakeFiles/mympc.dir
+/home/pedrito/proyectos/mympd/build/CMakeFiles/edit_cache.dir
+/home/pedrito/proyectos/mympd/build/CMakeFiles/rebuild_cache.dir
